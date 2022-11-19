@@ -8,29 +8,29 @@ Each player has a “Health=default(10)” parameter. During the game players' h
 
 Prerequisites:
 
-Use asp.net Core as backend technology.
-Use EF code first for database handling.
-Consider client logic as an isolated blackbox;
-Provide minimum endpoints that will serve the task.
+- Use asp.net Core as backend technology.
+- Use EF code first for database handling.
+- Consider client logic as an isolated blackbox;
+- Provide minimum endpoints that will serve the task.
 
 What is important:
 
-Code architecture.
-Project structure.
-Strict following to the task requirements, as it was a real project.
-Restful knowledge
-Endpoints, cpu & memory performance.
-Your ability to quickly learn and catch new things on the fly.
+- Code architecture.
+- Project structure.
+- Strict following to the task requirements, as it was a real project.
+- Restful knowledge
+- Endpoints, cpu & memory performance.
+- Your ability to quickly learn and catch new things on the fly.
 
 What is NOT important:
 
-Project type/model.
-Packages used
-Database used, db format.
-Debug/data visualization.
-Any additional work not related to requirements. 
+- Project type/model.
+- Packages used
+- Database used, db format.
+- Debug/data visualization.
+- Any additional work not related to requirements. 
 
 What may be done in addition:
 
-Unit tests
-CQS pattern
+- Unit tests
+- CQS pattern
